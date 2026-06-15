@@ -1,0 +1,39 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.history
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter / Dart / Pub
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android — machine-specific, never commit
+android/local.properties
+
+# Release signing
+android/app/*.jks
+android/app/keystore.properties
+
+# Obfuscation / symbols
+app.*.symbols
+app.*.map.json
+
+# Build output
+/android/app/debug
+/android/app/profile
+/android/app/release

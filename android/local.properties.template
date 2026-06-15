@@ -1,0 +1,5 @@
+# Copy this file to android/local.properties and fill in your paths.
+# This file is NOT committed to git.
+
+sdk.dir=/path/to/android/sdk
+flutter.sdk=/path/to/flutter
