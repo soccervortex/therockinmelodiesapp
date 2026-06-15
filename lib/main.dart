@@ -7,8 +7,8 @@ import 'package:intl/date_symbol_data_local.dart';
 // ============================================================
 //  SUPABASE CONFIGURATION — vervang door uw eigen project
 // ============================================================
-const SUPABASE_URL = 'https://YOUR_PROJECT_ID.supabase.co';
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY';
+const SUPABASE_URL = 'https://qdzsngekjrfmcjqrebmf.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_OLQ4NuhwkaNggyzwEOTSng_GMEtFKy9';
 const ADMIN_PASSWORD = 'admin123';
 
 // ============================================================
